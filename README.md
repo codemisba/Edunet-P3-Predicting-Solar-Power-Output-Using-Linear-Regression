@@ -1,38 +1,56 @@
-# Edunet-P3-Predicting-Solar-Power-Output-Using-Linear-Regression
-Predicting Solar Power Output Using Linear Regression (AI/ML)
-Project Description
-This project aims to develop a machine learning model using linear regression to accurately predict solar power output based on various environmental factors such as temperature, sunlight intensity, humidity, and time of day. By leveraging historical data and advanced analytical techniques, the model provides a reliable solution for optimizing energy generation and improving solar panel efficiency. The project demonstrates the practical application of AI/ML in renewable energy management.
 
-By analyzing historical data, the model optimizes energy generation and demonstrates the practical application of AI/ML in renewable energy management.
+# **Predicting Solar Power Output Using Linear Regression**  
+### **AI/ML-Based Solar Energy Forecasting**  
 
-Project Structure
-├── data/                # Dataset files (input data)
-├── models/              # Trained models and weights
-├── notebooks/           # Jupyter notebooks for experimentation
-├── scripts/             # Python scripts for data processing and model training
-├── README.md            # Project overview (this file)
-└── .gitignore           # Files to ignore in the repository
-Requirements
-To run this project, install the following dependencies:
+## **Project Overview**  
+This project focuses on developing a **machine learning model using linear regression** to predict solar power output based on environmental factors such as **temperature, sunlight intensity, humidity, and time of day**. By leveraging historical data and statistical analysis, the model enhances energy production efficiency and aids in better solar energy management.  
 
-pip install -r requirements.txt
-Example requirements.txt:
+Through predictive analytics, this project demonstrates the **real-world application of AI/ML in renewable energy optimization** by providing accurate power generation forecasts.  
 
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-jupyterlab
-How to Run
-Clone the repository:
-git clone https://github.com/imvinxx/Predicting-Solar-Power-Output-Using-Linear-Regression.git
-cd Predicting-Solar-Power-Output-Using-Linear-Regression
-Install the dependencies:
-pip install -r requirements.txt
-Run the Jupyter Notebook to train and test the model:
-jupyter lab
-Key Features
-Linear regression model for predicting solar power output.
-Analyzes environmental factors such as sunlight, temperature, and humidity.
-Provides insights for optimizing solar panel efficiency.
+---
+
+## **Project Structure**  
+The repository is organized as follows:  
+
+```
+├── data/                # Contains dataset files (input data)  
+├── models/              # Stores trained models and weights  
+├── notebooks/           # Jupyter notebooks for experimentation and visualization  
+├── scripts/             # Python scripts for data preprocessing and model training  
+├── README.md            # Project overview and instructions (this file)  
+└── .gitignore           # Files and directories to be ignored by Git  
+```  
+
+---
+
+## **Setup & Dependencies**  
+Before running the project, ensure that you have installed the required dependencies:  
+
+### **Installation Steps:**  
+
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/imvinxx/Predicting-Solar-Power-Output-Using-Linear-Regression.git  
+   cd Predicting-Solar-Power-Output-Using-Linear-Regression  
+   ```  
+
+2. **Install the required packages:**  
+   ```bash
+   pip install -r requirements.txt  
+   ```  
+
+3. **Run the Jupyter Notebook for training and testing the model:**  
+   ```bash
+   jupyter lab  
+   ```  
+
+---
+
+## **Key Features**  
+- **Machine Learning-Based Prediction:** Uses **linear regression** to estimate solar power output based on various environmental factors.  
+- **Data-Driven Optimization:** Analyzes historical trends to improve **solar panel efficiency and energy forecasting**.  
+- **User-Friendly Implementation:** Provides **easy-to-follow scripts and Jupyter notebooks** for seamless experimentation and learning.  
+
+This project serves as a **practical implementation of AI/ML in renewable energy management**, offering a data-driven approach to optimizing solar power generation.  
+
+---
