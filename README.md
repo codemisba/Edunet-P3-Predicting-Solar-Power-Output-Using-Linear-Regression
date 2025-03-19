@@ -1,4 +1,5 @@
 
+
 # **Predicting Solar Power Output Using Linear Regression**  
 ### **AI/ML-Based Solar Energy Forecasting**  
 
@@ -30,7 +31,7 @@ Before running the project, ensure that you have installed the required dependen
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/imvinxx/Predicting-Solar-Power-Output-Using-Linear-Regression.git  
+   git clone https://github.com/codemisba/Predicting-Solar-Power-Output-Using-Linear-Regression.git  
    cd Predicting-Solar-Power-Output-Using-Linear-Regression  
    ```  
 
